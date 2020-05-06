@@ -25,5 +25,5 @@
 			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
 		</snapshotRepository>		
   </distributionManagement>
-	<p>  its SImPLE orrrrr f </p>
+	
 </project>
